@@ -4,9 +4,9 @@ This project documents a step-by-step approach to hardening a fresh Linux (Ubunt
 
 ## Topics Covered
 
-1. [Disabling Root Login](01-disable-root-login.md)
-2. [Creating a New Sudo User](02-create-sudo-user.md)
-3. [Keeping the System Updated](03-update-system.md)
+1. [Updating and Upgrading the System](01-update-upgrade.md)
+2. [Setting up a Firewall](02-setup-firewall-ufw.md)
+3. [Disabling Root Login](03-disable-root-login.md)
 4. [Changing the Default SSH Port](04-change-ssh-port.md)
 5. [Securing SSH with Fail2Ban](05-fail2ban.md)
 

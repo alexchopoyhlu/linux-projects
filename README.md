@@ -30,6 +30,5 @@ Feel free to explore each project folder. Every `.md` file explains:
 - What was done
 - Why it matters
 - The exact commands used
-- Verifiable outputs (e.g., command results)
 
 This repo is especially useful if you're starting out in cybersecurity, DevOps, or blue team roles.

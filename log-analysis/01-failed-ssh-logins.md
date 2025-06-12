@@ -13,6 +13,5 @@ Brute-force attacks are a common method used by attackers to gain unauthorized a
 ```bash
 grep "Failed password" /var/log/auth.log
 
-# to extract and count offending IPs:
-
+To extract and count offending IPs:
 grep "Failed password" /var/log/auth.log | awk '{print $(NF-3)}' | sort | uniq -c | sort -nr
